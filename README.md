@@ -1,7 +1,12 @@
-<p align="center"> <font size=10>Sivan(Shentao) Yan | 鄢申涛</font> </p>
+<p align="center"> <font size=8>Sivan(Shentao) Yan | 鄢申涛</font> </p>
 
+[T0C]
+
+### 1.我的自我介绍
 
 <u>我其实不知道的</u>
+
+<img src="https://s2.loli.net/2024/08/05/sfnQlUOM6kDNowg.jpg" width=30% height=30% div align=right />
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200)  ![Static Badge](https://img.shields.io/badge/food-potato_tomato-8A2BE2)  ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
@@ -17,6 +22,7 @@ Welcome here!
 <p align="right"> HelloWorld </p>
 
 `HelloWorld`
+
 
 <details close>
 <summary>My pic </summary>
