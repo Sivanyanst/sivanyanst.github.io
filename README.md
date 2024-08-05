@@ -15,7 +15,7 @@
 Welcome here!
 
 <font face='微软雅黑' color=8A2BE2 size=4>我是正文</font>
-<font face="黑体" color=#950040 size=8>我是黑体字</font>
+<font face="微软雅黑" color=#950040 size=8>我是黑体字</font>
 <font face="微软雅黑" color=red size=4>我是微软雅黑</font>
 
 
