@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there!🥹😝
 > This is the info page of **Sivan(Shentao)** **Yan** | **鄢申涛**
 Welcome here!
 
@@ -10,6 +10,9 @@ Welcome here!
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://s2.loli.net/2024/08/05/sfnQlUOM6kDNowg.jpg">
 </picture>
 </details>
+
+![这是我的头像](https://s2.loli.net/2024/08/05/sfnQlUOM6kDNowg.jpg)"PFP")
+
 Anything here
 
 OK
@@ -24,4 +27,4 @@ OK
 
 <yanshentao2021@email.szu.edu.cn>
 
-[E-mail](yanshentao2021@email.szu.edu.cn)
+
