@@ -23,3 +23,5 @@ OK
 [联易融数字科技集团有限公司](https://www.linklogis.com/ "国内头部的供应链金融科技解决方案提供商")
 
 <yanshentao2021@email.szu.edu.cn>
+
+[E-mail](yanshentao2021@email.szu.edu.cn)
