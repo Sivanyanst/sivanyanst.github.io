@@ -9,7 +9,7 @@
 > This is the info page of **Sivan(Shentao)** **Yan** | **鄢申涛**
 Welcome here!
 
-<font face='微软雅黑' color=blue size=4>我是正文</font>
+<font face='微软雅黑' color=8A2BE2 size=4>我是正文</font>
 <font face="黑体">我是黑体字</font>
 <font face="微软雅黑">我是微软雅黑</font>
 
