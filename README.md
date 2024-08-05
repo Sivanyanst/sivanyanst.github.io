@@ -1,20 +1,20 @@
+<p align="center"> <font size=8>Sivan(Shentao) Yan | 鄢申涛</font> </p>
 
 
+<u>hey</u>
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/%400xJCXsivan200)
-
-![Static Badge](https://img.shields.io/badge/food-potato_tomato-8A2BE2)
-
-![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200)  ![Static Badge](https://img.shields.io/badge/food-potato_tomato-8A2BE2)  ![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 # Hi there!🥹😝
 > This is the info page of **Sivan(Shentao)** **Yan** | **鄢申涛**
 Welcome here!
 
-<font face='微软雅黑' color=#950040 size=4>我是正文</font>
+<font face='微软雅黑' color=blue size=4>我是正文</font>
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
 
-<p align="center"> HelloWorld </p>
+
+<p align="right"> HelloWorld </p>
 
 `HelloWorld`
 
