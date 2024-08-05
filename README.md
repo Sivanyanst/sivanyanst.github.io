@@ -2,6 +2,9 @@
 > This is the info page of **Sivan(Shentao)** **Yan** | **鄢申涛**
 Welcome here!
 
+
+
+
 <details close>
 <summary>My pic </summary>
 <picture>
@@ -11,8 +14,8 @@ Welcome here!
 </picture>
 </details>
 
-![这是我的头像](https://s2.loli.net/2024/08/05/sfnQlUOM6kDNowg.jpg)"PFP")
-
+![这是我的头像](https://s2.loli.net/2024/08/05/sfnQlUOM6kDNowg.jpg))
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSivanyanst%2Fsivanyanst.github.io.git&count_bg=%2379C83D&title_bg=%23555555&icon=keybase.svg&icon_color=%23950040&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 Anything here
 
 OK
