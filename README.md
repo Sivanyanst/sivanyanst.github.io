@@ -8,11 +8,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
-``` diff 
-+ <yanshentao2021@email.szu.edu.cn>
-- nihao
-! nihao
-```
+**Contract me**
+
+ <smallpopo2003@gmail.com>|[Wechat]()|[Telegram]()|[Discord]()
+ 
+
 
 ### 01-Education{#01}
 
@@ -73,9 +73,9 @@
 
 </details>
 
-
 <font color=8A2BE2 size=4>我是正文</font>
 
+<p align="right">This template is a modification to [Michael(Chengbo) Yuan's](https://michaelyuancb.github.io/) website.</p>
 
 
 
