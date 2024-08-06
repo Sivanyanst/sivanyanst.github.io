@@ -1,6 +1,6 @@
 <p align="center"> <font size=8>Sivan(Shentao) Yan | 鄢申涛</font> </p>
 
-<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width=20% height=30% div align=right /> 
+<img src="https://camo.githubusercontent.com/8fb0142550f9127aaf45b347c397b0d0c05153c7087841adb1fb805e1754e595/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f736976616e79616e73742f706963676f406d61696e2f696d672f317066702e6a7067" width=20% height=30% div align=right /> 
 
 ### 1.我的自我介绍
 
