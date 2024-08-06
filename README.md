@@ -4,14 +4,10 @@
 
 [TOC]
 
-
-
-![pfp](https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg)
-
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Supply%20Chain%20Finance-8A2BE2) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
 
-<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "300" height = "200" alt="PFP"  align=right/>
+<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "300" height = "200" alt="PFP" div align=right/>
 
 ### 1.Education
 
