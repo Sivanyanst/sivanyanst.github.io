@@ -24,7 +24,7 @@
 
   ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/Putonghua%20Level%20II-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green) 
  
-### 02-Selected Awards and Honors{#02}
+### 02-Selected Awards and Honors
 
 * Second Prize, China 8th National College Student Logistics Design Competition (2024)
 * LiYuan Outstanding Scholarship of [Shenzhen University](https://en.szu.edu.cn/) (2023, **Second-level** **Scholarship**,¥20kRMB)
