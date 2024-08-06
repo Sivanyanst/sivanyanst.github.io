@@ -91,13 +91,15 @@
 <details close>
 <summary> Click to Open </summary>
  
-`lifelist``wishlist`
+`lifelist` `wishlist`
+
 - [x] Be Kind
 - [ ] Travel to USA and UK
 - [ ] Earn Enough Money
 - [ ] Join an Interesting Company
 
 </details>
+
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website. 
 
