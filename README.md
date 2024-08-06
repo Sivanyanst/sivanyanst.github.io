@@ -29,10 +29,10 @@
 * `Second Prize`, China 8th National College Student Logistics Design Competition (2024)
 * LiYuan Outstanding Scholarship of [Shenzhen University](https://en.szu.edu.cn/) (2023, **Second-level** **Scholarship**,¥20kRMB)
 * "**Tencent Yiyou**" Outstanding Class Mentor (2023)
-* Third Prize, "Chia Tai Cup" 13th National College Student Market Survey and Analysis Competition (2023)
-* First Prize, University Learning Star Award (2023)
-* First Prize, University Public Welfare Star Award (2023)
-* First Prize, Excellent Student Cadre (2023)
+* `Third Prize`, "Chia Tai Cup" 13th National College Student Market Survey and Analysis Competition (2023)
+* `First Prize`, University Learning Star Award (2023)
+* `First Prize`, University Public Welfare Star Award (2023)
+* `First Prize`, Excellent Student Cadre (2023)
   
 ## 03-Project 📋
 
@@ -60,7 +60,7 @@
   Editorial Department, Intern
 * [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
   
-  A technology company specializing in blockchain games
+  <font style="background: rgb(149,0,64)">A technology company specializing in blockchain games</font>
   
   Market Operations Department, Intern
   
