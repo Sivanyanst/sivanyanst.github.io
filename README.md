@@ -2,13 +2,13 @@
 
 > Hi There! This is an Info Page:)
 > 
-> EN-**Sivan(Shentao) Yan** CN-**鄢申涛**
+> EN-**Sivan(Shentao) Yan** CN-**鄢申涛**🌱
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
-### Contract me 🧣
+## Contract me 🧣
 
  <smallpopo2003@gmail.com> 
  
@@ -18,7 +18,7 @@
  
  [X](https://x.com/0xJCXsivan200)
  
-### 01-Education 🎒
+## 01-Education 🎒
 
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-blue)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-blue)  ![Static Badge](https://img.shields.io/badge/Class-2025-blue)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-blue)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-blue) 
 
@@ -34,7 +34,7 @@
 * First Prize, University Public Welfare Star Award (2023)
 * First Prize, Excellent Student Cadre (2023)
   
-### 03-Project 📋
+## 03-Project 📋
 
 * **[DAism](https://learn.daism.io/zh)**
 
@@ -46,7 +46,7 @@
   
   DA, September 2022-April 2023
 
-### 04-Intership 👨🏻‍🏭
+## 04-Intership 👨🏻‍🏭
 
 * [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
   
@@ -64,7 +64,7 @@
   
   Market Operations Department, Intern
   
-### 05-Lifegallery 🖼️
+## 05-Lifegallery 🖼️
 
 <figure class="third">
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ce904540c1456d5cf7e1e0e9fd25049.jpg" width="100"/>
