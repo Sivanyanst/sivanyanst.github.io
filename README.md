@@ -8,10 +8,8 @@
 
 **Contract me**
 
- <smallpopo2003@gmail.com> | [Wechat](Sivanyanst/sivanyanst.github.io/Wechat.jpg) | [Telegram]() | [Discord]()
+ <smallpopo2003@gmail.com> | [Wechat]([Sivanyanst/sivanyanst.github.io/Wechat.jpg](https://raw.githubusercontent.com/Sivanyanst/sivanyanst.github.io/main/Wechat.jpg)) | [Telegram](https://t.me/LightSivan) | [X](https://x.com/0xJCXsivan200)
  
-
-
 ### 01-Education{#01}
 
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Class-2025-8A2BE2)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-8A2BE2) 
@@ -33,10 +31,10 @@
 * **[DAism](https://learn.daism.io/zh)**
 
   Operation Team, **Co-Leader**, 2022.09-Present
-* **"Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC**
+* **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
   Team Leader, November 2023–June 2024
-* **"Chia Tai Cup" National College Student Market Survey and Analysis Competition**
+* **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
   DA, September 2022-April 2023
 
