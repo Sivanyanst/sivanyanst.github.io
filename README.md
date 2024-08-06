@@ -10,7 +10,7 @@
 
 **Contract me**
 
- <smallpopo2003@gmail.com>|[Wechat]()|[Telegram]()|[Discord]()
+ <smallpopo2003@gmail.com>|[Wechat](/sivanyanst.github.io/Wechat.jpg)|[Telegram]()|[Discord]()
  
 
 
