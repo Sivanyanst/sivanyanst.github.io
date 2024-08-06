@@ -4,12 +4,14 @@
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
- ![Static Badge](https://img.shields.io/badge/Supply%20Chain%20Finance-8A2BE2) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
 
 ### 01-Education
 
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Class-2025-8A2BE2)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-8A2BE2) 
+
+  ![Static Badge](https://img.shields.io/badge/CET%206-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Putonghua%20Level%20II-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-8A2BE2) 
  
 ### 02-Selected Awards and Honors
 
@@ -23,12 +25,9 @@
   
 ### 3.Project
 
-<details close>
-<summary> 2024 </summary>
- 
-* hello
-
-</details>
+* [DAism](https://learn.daism.io/zh), Operation Team, **Co-Leader**, 2022.09-Present
+* "Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC, **Team Leader**, November 2023–June 2024
+* "Chia Tai Cup" National College Student Market Survey and Analysis Competition, **DA**, September 2022-April 2023
 
 ### 4.Intership
 
