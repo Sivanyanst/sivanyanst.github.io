@@ -73,11 +73,14 @@
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/a462b42c81178631daa8d5166506968.jpg" width="150"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e6bdc9f0c034daf66628c8c459c951b.jpg" width="150"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/205a91f3f0747f9cb0bb7c96e468ffe.jpg" width="150"/>
-    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/0314f4b3a70323f6060311440a1fdbd.jpg" width="150"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/f75cf9dcab821fd203d33a8b33256dd.jpg" width="150"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/5b77541c75b6fe4c6ccd7be2b524038.jpg" width="150"/>
-    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/5b77541c75b6fe4c6ccd7be2b524038.jpg" width="150"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/4065dbd4ba4eba54dcc77d765687537.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/697ef435334cf3cb5931eb4b3f21324.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ff96ae380d203b561be66a5814d75df.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/22bfff8ac015b681147236889faf0e4.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/a0938f06eecec06febc513e7ca89750.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/397ea8f1123764eedd4d8d99a27c0aa.jpg" width="150"/>
 </figure>
 
 
@@ -92,6 +95,7 @@
 - [ ] Join an Interesting Company
 
 </details>
+
 
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website. 
