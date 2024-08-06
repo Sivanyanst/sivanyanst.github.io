@@ -25,8 +25,6 @@ Welcome here!
 <summary>My pic </summary>
   
   <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width=20% height=30% div align=right /> 
-
-![这是我的头像](https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg) 
   
 </details>
  
