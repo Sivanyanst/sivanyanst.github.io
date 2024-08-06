@@ -88,9 +88,11 @@
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
 
-<center>©️ 2024 by Sivan Yan</center>
-<center>Powered by Github Pages</center>
-
 <p align="right"> Last Update 6/8/2024  </p>
 
 ## END 👋🏻👋🏻
+
+<center>©️ 2024 by Sivan Yan</center>
+
+<center>Powered by Github Pages</center>
+
