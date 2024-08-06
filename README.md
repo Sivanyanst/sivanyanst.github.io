@@ -18,7 +18,7 @@
  
  [X](https://x.com/0xJCXsivan200)
  
-### 01-Education{#01}
+### 01-Education
 
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-blue)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-blue)  ![Static Badge](https://img.shields.io/badge/Class-2025-blue)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-blue)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-blue) 
 
