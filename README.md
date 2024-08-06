@@ -1,6 +1,6 @@
 <p align="center"> <font size=8>Sivan(Shentao) Yan | 鄢申涛</font> </p>
 
-<img src="https://s2.loli.net/2024/08/05/sfnQlUOM6kDNowg.jpg" width=20% height=30% div align=right /> 
+<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width=20% height=30% div align=right /> 
 
 ### 1.我的自我介绍
 
