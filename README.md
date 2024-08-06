@@ -24,7 +24,7 @@ Welcome here!
 <details close>
 <summary>My pic </summary>
   
-![这是我的头像](https://s2.loli.net/2024/08/05/sfnQlUOM6kDNowg.jpg) 
+![这是我的头像](https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg) 
   
 </details>
  
