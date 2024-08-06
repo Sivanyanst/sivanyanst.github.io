@@ -6,13 +6,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) <p align="right"> 6/8/2024 update </p>
 
-**Contract me**
+### Contract me
 
  <smallpopo2003@gmail.com> | [Wechat](https://raw.githubusercontent.com/Sivanyanst/sivanyanst.github.io/main/Wechat.jpg) | [Telegram](https://t.me/LightSivan) | [X](https://x.com/0xJCXsivan200)
  
 ### 01-Education{#01}
 
- ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Class-2025-8A2BE2)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-8A2BE2) 
+ ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-blue)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-blue)  ![Static Badge](https://img.shields.io/badge/Class-2025-blue)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-blue)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-blue) 
 
   ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/Putonghua%20Level%20II-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green) 
  
