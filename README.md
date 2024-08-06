@@ -24,6 +24,8 @@ Welcome here!
 <details close>
 <summary>My pic </summary>
   
+  <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width=20% height=30% div align=right /> 
+
 ![这是我的头像](https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg) 
   
 </details>
@@ -44,11 +46,6 @@ OK
 
 <yanshentao2021@email.szu.edu.cn>
 
-> 数据结构
->> 树
->>> 二叉树
->>>> 平衡二叉树
->>>>> 满二叉树
 
 ``` diff 
 +nihao
