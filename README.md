@@ -8,7 +8,7 @@
 
 **Contract me**
 
- <smallpopo2003@gmail.com> | [Wechat]([Sivanyanst/sivanyanst.github.io/Wechat.jpg](https://raw.githubusercontent.com/Sivanyanst/sivanyanst.github.io/main/Wechat.jpg)) | [Telegram](https://t.me/LightSivan) | [X](https://x.com/0xJCXsivan200)
+ <smallpopo2003@gmail.com> | [Wechat](https://raw.githubusercontent.com/Sivanyanst/sivanyanst.github.io/main/Wechat.jpg) | [Telegram](https://t.me/LightSivan) | [X](https://x.com/0xJCXsivan200)
  
 ### 01-Education{#01}
 
