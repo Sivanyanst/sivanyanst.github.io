@@ -1,6 +1,6 @@
 <p align="center"> <font size=6>Sivan(Shentao) Yan|鄢申涛</font> </p>
 
-> Hi there! This is the info page of **Sivan(Shentao) Yan** | **鄢申涛**!
+> Hi there! This is the info page of **Sivan(Shentao) Yan****鄢申涛**!
 
 <p align="right"> 6/8/2024 update </p>
 
@@ -10,7 +10,10 @@
 
 ### Contract me
 
- <smallpopo2003@gmail.com> | [Wechat](https://raw.githubusercontent.com/Sivanyanst/sivanyanst.github.io/main/Wechat.jpg) | [Telegram](https://t.me/LightSivan) | [X](https://x.com/0xJCXsivan200)
+ <smallpopo2003@gmail.com> 
+ [Wechat](https://raw.githubusercontent.com/Sivanyanst/sivanyanst.github.io/main/Wechat.jpg) 
+ [Telegram](https://t.me/LightSivan) 
+ [X](https://x.com/0xJCXsivan200)
  
 ### 01-Education{#01}
 
