@@ -2,13 +2,13 @@
 
 > Hi There! This is an Info Page:)
 > 
-> EN-**Sivan(Shentao) Yan** CN-**鄢申涛**🌱
+> EN-**Sivan Yan** CN-**鄢申涛**🌱
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
-## Contract me 🧣
+## 00-Contract me 🧣
 
  <smallpopo2003@gmail.com> 
  
