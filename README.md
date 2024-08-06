@@ -1,19 +1,24 @@
 <p align="center"> <font size=6>Sivan(Shentao) Yan | 鄢申涛</font> </p>
 
-> Hi there! This is the info page of **Sivan(Shentao)** **Yan** | **鄢申涛**!
+> Hi there! This is the info page of **Sivan(Shentao) Yan** | **鄢申涛**!
+
+<p align="right"> 6/8/2024 update </p>
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
+[Education](#01)
+[Project](#02)
 
-### 01-Education
+### 01-Education{#01}
 
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Class-2025-8A2BE2)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-8A2BE2) 
 
   ![Static Badge](https://img.shields.io/badge/CET%206-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Putonghua%20Level%20II-8A2BE2)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-8A2BE2) 
  
-### 02-Selected Awards and Honors
+### 02-Selected Awards and Honors{#02}
+<h3 id="02">02-Selected Awards and Honors</h3>
 
 * Second Prize, China 8th National College Student Logistics Design Competition (2024)
 * LiYuan Outstanding Scholarship of [Shenzhen University](https://en.szu.edu.cn/) (2023, **Second-level** **Scholarship**,¥20kRMB)
@@ -23,80 +28,59 @@
 * First Prize, University Public Welfare Star Award (2023)
 * First Prize, Excellent Student Cadre (2023)
   
-### 3.Project
+### 03-Project
 
-* [DAism](https://learn.daism.io/zh), Operation Team, **Co-Leader**, 2022.09-Present
-* "Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC, **Team Leader**, November 2023–June 2024
-* "Chia Tai Cup" National College Student Market Survey and Analysis Competition, **DA**, September 2022-April 2023
+* [DAism](https://learn.daism.io/zh)
 
-### 4.Intership
-
-<details close>
-<summary> 2024 </summary>
- 
-* hello
-
-</details>
-
-### 5.Lifegallery
-
-
-<details close>
-<summary> 2024 </summary>
- 
-* hello
-
-</details>
-
-
-
-<u>我其实不知道的</u>
-
-
-
-
-
-
-
-
-
-
-
-<font face='微软雅黑' color=8A2BE2 size=4>我是正文</font>
-<font face="微软雅黑" color=Paprika size=6>我是黑体字</font>
-<font face="微软雅黑" color=red size=4>我是微软雅黑</font>
-
-
-<p align="right"> HelloWorld </p>
-
-`HelloWorld`
-
-<details close>
-<summary>My pic </summary>
+  Operation Team, **Co-Leader**, 2022.09-Present
+* "Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC
   
-  <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width=20% height=30% div align=right /> 
+  **Team Leader**, November 2023–June 2024
+* "Chia Tai Cup" National College Student Market Survey and Analysis Competition
   
-</details>
+  **DA**, September 2022-April 2023
+
+### 04-Intership
+
+* [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
+  
+  The leading supply chain financial technology solution provider in China
+  
+  Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Present
+* [**Penta Lab.io**](https://www.pentalab.io/ " An Independent and Authoritative Blockchain Research Institute in Hong Kong ")
+  
+  An Independent and Authoritative Blockchain Research Institute in Hong Kong
+  
+  Editorial Department, Intern
+* [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
+  
+  A technology company specializing in blockchain games
+  
+  Market Operations Department, Intern
+  
+### 05-Lifegallery
+
+
+<p align="right"><details close></p>
+<summary> click to open </summary>
  
-- [ ] Anything here
-- [ ] Anything there
-- [x] Binggo
+`lifelist``wishlist`
+- [x] Be Kind
+- [ ] Travel to USA and UK
+- [ ] Earn Enough Money
+- [ ] Join an Interesting Company
 
-OK
+</details>
 
-WE LOOK AT YOU
 
-***
-
-OK
-
-[联易融数字科技集团有限公司](https://www.linklogis.com/ "国内头部的供应链金融科技解决方案提供商")
+<font color=8A2BE2 size=4>我是正文</font>
 
 <yanshentao2021@email.szu.edu.cn>
 
 
+
 ``` diff 
-+nihao
++ nihao
 - nihao
 ! nihao
 ```
