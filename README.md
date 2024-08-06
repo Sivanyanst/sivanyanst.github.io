@@ -68,24 +68,17 @@
   
 ### 05-Lifegallery
 
-<div align="left"><img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e4685fa983790447d6cdedb0407eb0e.jpg" width="150" height="150"></div>
-<div align="left"><img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/a462b42c81178631daa8d5166506968.jpg" width="150" height="150"></div> 
-<div align="left"><img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e6bdc9f0c034daf66628c8c459c951b.jpg" width="150" height="150"></div>
-<div align="left"><img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/205a91f3f0747f9cb0bb7c96e468ffe.jpg" width="150" height="150"></div>
-<div align="left"><img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/0314f4b3a70323f6060311440a1fdbd.jpg" width="150" height="150"></div>
-
 <figure class="third">
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e4685fa983790447d6cdedb0407eb0e.jpg" width="150"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/a462b42c81178631daa8d5166506968.jpg" width="150"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e6bdc9f0c034daf66628c8c459c951b.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/205a91f3f0747f9cb0bb7c96e468ffe.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/0314f4b3a70323f6060311440a1fdbd.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/f75cf9dcab821fd203d33a8b33256dd.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/5b77541c75b6fe4c6ccd7be2b524038.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/5b77541c75b6fe4c6ccd7be2b524038.jpg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/4065dbd4ba4eba54dcc77d765687537.jpg" width="150"/>
 </figure>
-
-<left>
-<figure>
-<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/a462b42c81178631daa8d5166506968.jpg" />
-<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e6bdc9f0c034daf66628c8c459c951b.jpg" />
-</figure>
-</left>
 
 
 <details close>
