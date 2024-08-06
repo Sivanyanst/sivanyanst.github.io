@@ -50,20 +50,18 @@
 
 * [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
   
-  The leading supply chain financial technology solution provider in China
+  <font style="background: rgb(149,0,64)" color=white>The leading supply chain financial technology solution provider in China</font>
   
   Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Present
 * [**Penta Lab.io**](https://www.pentalab.io/ " An Independent and Authoritative Blockchain Research Institute in Hong Kong ")
   
-  An Independent and Authoritative Blockchain Research Institute in Hong Kong
+  <font style="background: rgb(149,0,64)" color=white>An Independent and Authoritative Blockchain Research Institute in Hong Kong</font>
   
   Editorial Department, Intern
 * [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
   
   <font style="background: rgb(149,0,64)" color=white>A technology company specializing in blockchain games</font>
-  
-  <table><tr><td bgcolor=Paprika)> A technology company specializing in blockchain games </td></tr></table>
-  
+
   Market Operations Department, Intern
   
 ## 05-Lifegallery 🖼️
@@ -88,7 +86,10 @@
 </figure>
 
 
-This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website. ©️
+This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
+
+<center>©️ 2024 by Sivan Yan</center>
+<center>Powered by Github Pages</center>
 
 <p align="right"> Last Update 6/8/2024  </p>
 
