@@ -1,6 +1,8 @@
-<p align="center"> <font size=6>Sivan(Shentao) Yan|鄢申涛</font> </p>
+<p align="center"> <font size=6>Sivan(Shentao) Yan</font> </p>
 
-> Hi there! This is the info page of **Sivan(Shentao) Yan****鄢申涛**!
+> Hi There! This is an Info Page:)
+> 
+> EN-**Sivan(Shentao) Yan** CN-**鄢申涛**
 
 <p align="right"> 6/8/2024 update </p>
 
@@ -76,8 +78,6 @@
 - [ ] Join an Interesting Company
 
 </details>
-
-<font color=8A2BE2 size=4>我是正文</font>
 
 <p align="right">This template is a modification to [Michael(Chengbo) Yuan's](https://michaelyuancb.github.io/) website.</p>
 
