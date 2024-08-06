@@ -61,7 +61,9 @@
 * [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
   
   <font style="background: rgb(149,0,64)">A technology company specializing in blockchain games</font>
-  <table><tr><td bgcolor=rgb(149,0,64)> A technology company specializing in blockchain games </td></tr></table>
+  
+  <table><tr><td bgcolor=Paprika)> A technology company specializing in blockchain games </td></tr></table>
+  
   Market Operations Department, Intern
   
 ## 05-Lifegallery 🖼️
