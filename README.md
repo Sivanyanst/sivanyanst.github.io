@@ -46,6 +46,7 @@
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
   * Team Leader, November 2023–June 2024
+  * [一汽物流数智调度决策优化方案设计]()
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
   * DA, September 2022-April 2023
