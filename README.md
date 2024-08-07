@@ -47,7 +47,7 @@
   
   * Team Leader, November 2023–June 2024
   * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/fypo/)
-  * [一汽物流数智调度决策优化方案设计](https://www.scribd.com/document/756920411/%E6%96%B0-%E6%98%9F%E4%B9%8B%E7%81%AB-%E8%83%BD-%E4%BB%A5%E7%87%8E-%E6%BA%90-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%B6%E7%94%A8%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E8%80%85%E5%81%8F%E5%A5%BD%E7%9A%84%E8%B0%83%E6%9F%A5%E5%88%86%E6%9E%90)
+  * [一汽物流数智调度决策优化方案设计](https://www.dropbox.com/scl/fi/zjy1ypckyw79dt2ereeo3/NCSLDC.pdf?rlkey=q40cw1wzeied9i4qny108rlt4&st=2tucodki&dl=0)
   
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
