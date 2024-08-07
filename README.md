@@ -4,13 +4,18 @@
 
 > Hi There! This is an Info Page:)
 > 
-> EN-**Sivan Yan** CN-**鄢申涛**🌱💴🚹♑🌈🎏🧘🐕🐎🥔🏈🏸📕📘
+> EN-**Sivan Yan** CN-**鄢申涛**
+>
+> 🌱💴🚹♑🌈🎏🧘🐕🐎🥔🏈🏸📕📘
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hithere&edge_flat=false)](https://hits.seeyoufarm.com) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
-## 00-Contact me 🧣
+## Personal Statement
+
+
+## 00-Contact Information 🧣
 
  <smallpopo2003@gmail.com> 
  
@@ -70,8 +75,23 @@
   <font style="background: rgb(149,0,64)" color=white>A technology company specializing in blockchain games</font>
 
   * Market Operations Department, Intern
+ 
+## 05-Academic Essay
+   * [中国新能源汽车行业研究报告202408版](https://online.fliphtml5.com/byksl/jzoj/)
+   
+   * [《论摩诃摩耶及其悲剧》新解—泰戈尔及其背后的印度文化范式]()
+   
+   * [“平庸之恶”的逻辑演进及启示]()
+   
+   * [深圳市商场营业额影响因素计量分析]()
+   
+   * [基于模拟退火算法的i-WMS方案设计与实现](https://online.fliphtml5.com/byksl/gzqt/)
+   
+   * [死亡赋予生命意义]()
+ 
+## 06-Additional Activities
   
-## 05-Lifegallery 🖼️
+## 07-Lifegallery 🖼️
 
 <figure class="third">
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ce904540c1456d5cf7e1e0e9fd25049.jpg" width="100"/>
