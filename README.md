@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 <p align="center"> <font size=8 >Sivan(Shentao) Yan</font> </p>
 
 > Hi There! This is an Info Page:)
