@@ -26,6 +26,10 @@
  [X](https://x.com/0xJCXsivan200)(Twitter)
 
  [Mastodon](https://daotodon.me/@JCXsivan)
+
+ [Instagram]()
+ 
+ [WhatsAPP]()
  
 ## 01-Education 🎒
 
