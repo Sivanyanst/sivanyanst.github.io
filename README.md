@@ -1,4 +1,5 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
+
 <p align="center"> <font size=8 >Sivan(Shentao) Yan</font> </p>
 
 > Hi There! This is an Info Page:)
@@ -23,7 +24,7 @@
 
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-blue)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-blue)  ![Static Badge](https://img.shields.io/badge/Class-2025-blue)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-blue)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-blue) 
 
-  ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/Putonghua%20Level%20II-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green) 
+  ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/PTL2GA-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green) 
  
 ## 02-Selected Awards and Honors 🏆
 
@@ -39,13 +40,13 @@
 
 * **[DAism](https://learn.daism.io/zh)**
 
-  Operation Team, **Co-Leader**, 2022.09-Present
+  * Operation Team, **Co-Leader**, 2022.09-Present
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
-  Team Leader, November 2023–June 2024
+  * Team Leader, November 2023–June 2024
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
-  DA, September 2022-April 2023
+  * DA, September 2022-April 2023
 
 ## 04-Intership 👨🏻‍🏭
 
@@ -53,17 +54,17 @@
   
   <font style="background: rgb(149,0,64)" color=white>The leading supply chain financial technology solution provider in China</font>
   
-  Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Present
+  * Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Present
 * [**Penta Lab.io**](https://www.pentalab.io/ " An Independent and Authoritative Blockchain Research Institute in Hong Kong ")
   
   <font style="background: rgb(149,0,64)" color=white>An Independent and Authoritative Blockchain Research Institute in Hong Kong</font>
   
-  Editorial Department, Intern
+  * Editorial Department, Intern
 * [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
   
   <font style="background: rgb(149,0,64)" color=white>A technology company specializing in blockchain games</font>
 
-  Market Operations Department, Intern
+  * Market Operations Department, Intern
   
 ## 05-Lifegallery 🖼️
 
