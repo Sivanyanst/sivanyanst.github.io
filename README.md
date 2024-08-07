@@ -1,6 +1,6 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-<p align="center"> <font size=8 >Sivan(Shentao) Yan</font> </p>
+<p align="center"> <font size=6 >Sivan(Shentao) Yan</font> </p>
 
 > Hi There! This is an Info Page:)
 > 
@@ -25,7 +25,7 @@
  
  [X](https://x.com/0xJCXsivan200)(Twitter)
 
- [Mastondon](https://daotodon.me/@JCXsivan)
+ [Mastodon](https://daotodon.me/@JCXsivan)
  
 ## 01-Education 🎒
 
