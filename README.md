@@ -46,8 +46,8 @@
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
   * Team Leader, November 2023–June 2024
-  * [一汽物流数智调度决策优化方案设计](https://github.com/Sivanyanst/sivanyanst.github.io/blob/3b99af69c99a51ea01cd6a8941ef7dc06eef7e27/NCSLDC-%E4%B8%80%E6%B1%BD%E7%89%A9%E6%B5%81%E6%95%B0%E6%99%BA%E8%B0%83%E5%BA%A6%E5%86%B3%E7%AD%96%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.pdf)
-  * <a href="https://github.com/Sivanyanst/sivanyanst.github.io/blob/3b99af69c99a51ea01cd6a8941ef7dc06eef7e27/NCSLDC-%E4%B8%80%E6%B1%BD%E7%89%A9%E6%B5%81%E6%95%B0%E6%99%BA%E8%B0%83%E5%BA%A6%E5%86%B3%E7%AD%96%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.pdf" target="_blank"> 一汽物流数智调度决策优化方案设计 </a>
+  * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/fypo/)
+  * [一汽物流数智调度决策优化方案设计](https://www.scribd.com/document/756920411/%E6%96%B0-%E6%98%9F%E4%B9%8B%E7%81%AB-%E8%83%BD-%E4%BB%A5%E7%87%8E-%E6%BA%90-%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%AE%B6%E7%94%A8%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E8%80%85%E5%81%8F%E5%A5%BD%E7%9A%84%E8%B0%83%E6%9F%A5%E5%88%86%E6%9E%90)
   
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
