@@ -47,7 +47,7 @@
   
   * Team Leader, November 2023–June 2024
   * [一汽物流数智调度决策优化方案设计](https://github.com/Sivanyanst/sivanyanst.github.io/blob/3b99af69c99a51ea01cd6a8941ef7dc06eef7e27/NCSLDC-%E4%B8%80%E6%B1%BD%E7%89%A9%E6%B5%81%E6%95%B0%E6%99%BA%E8%B0%83%E5%BA%A6%E5%86%B3%E7%AD%96%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.pdf)
-  * <a href="(https://github.com/Sivanyanst/sivanyanst.github.io/blob/3b99af69c99a51ea01cd6a8941ef7dc06eef7e27/NCSLDC-%E4%B8%80%E6%B1%BD%E7%89%A9%E6%B5%81%E6%95%B0%E6%99%BA%E8%B0%83%E5%BA%A6%E5%86%B3%E7%AD%96%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.pdf)" target="_blank"> 一汽物流数智调度决策优化方案设计 </a>
+  * <a href="https://github.com/Sivanyanst/sivanyanst.github.io/blob/3b99af69c99a51ea01cd6a8941ef7dc06eef7e27/NCSLDC-%E4%B8%80%E6%B1%BD%E7%89%A9%E6%B5%81%E6%95%B0%E6%99%BA%E8%B0%83%E5%BA%A6%E5%86%B3%E7%AD%96%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%BE%E8%AE%A1.pdf" target="_blank"> 一汽物流数智调度决策优化方案设计 </a>
   
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
