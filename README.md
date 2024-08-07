@@ -18,7 +18,9 @@
  
  [Telegram](https://t.me/LightSivan) 
  
- [X](https://x.com/0xJCXsivan200)
+ [X](https://x.com/0xJCXsivan200)(Twitter)
+
+ [Mastondon](https://daotodon.me/@JCXsivan)
  
 ## 01-Education 🎒
 
@@ -86,7 +88,6 @@
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/3458076bb10dfbdb2ef0123c5deaefe.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/54bdfb9572ae8ae4de69bb5e05fb238.jpg" width="100"/>
 </figure>
-
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
 
