@@ -120,7 +120,7 @@ More details about me below.👇
 
 >我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。
 >
->I am afraid that I am not a beautiful jade, so I do not dare to do hard work, but I half believe that I am a beautiful jade, so I refuse to be mediocre.
+>I am afraid that I am not a jade, so I do not dare to do hard work, but I half believe that I am a jade, so I refuse to be mediocre.
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
 
