@@ -12,14 +12,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
-## Personal Statement
+## Personal Statement 💁‍♂️
 I love the joys and tribulations my life has brought me. I will spend the rest of my life searching for a New Eden.
 
 Be authentic and enjoy being authentic. Interested in new technologies, good at learning different fields, and philosophical in analysing problems and looking for opportunities.
 
 My main areas of interest are blockchain, supply chain, fintech and literature, feel free to communicate.
 
-More details about me below.
+More details about me below.👇
 
 ## 00-Contact Information 🧣
 
@@ -75,7 +75,7 @@ More details about me below.
 
   * Market Operations Department, Intern
  
-## 05-Academic Essay
+## 05-Academic Essay 📑
    * [中国新能源汽车行业研究报告202408版](https://online.fliphtml5.com/byksl/jzoj/)
    
    * [《论摩诃摩耶及其悲剧》新解—泰戈尔及其背后的印度文化范式]()
@@ -90,14 +90,17 @@ More details about me below.
 
    * [深圳市外来务工人员城市融入问题调查分析]()
  
-## 06-Additional Activities
+## 06-Additional Activities 🚩
   - **Lihu Youth Center, SZU Communist Youth League Committee**
+    
     - Deputy Director, 2021.09-2024.06
     
   - **Student Party Building Work Committee, College of Economics**
+    
     - Team Leader, 2021.09-2023.09
       
   - **Standing Committee of the Student Representative Assembly, College of Economics**
+    
     - Committee Member，2022.09-2024.04
     
 ## 07-Lifegallery 🖼️
@@ -114,6 +117,7 @@ More details about me below.
 
      <img src="" width="100"/>
 </figure>
+
 >我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。
 >I am afraid that I am not a beautiful jade, so I do not dare to do hard work, but I half believe that I am a beautiful jade, so I refuse to be mediocre.
 
