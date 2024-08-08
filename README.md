@@ -81,6 +81,8 @@
    * [基于模拟退火算法的i-WMS方案设计与实现](https://online.fliphtml5.com/byksl/gzqt/)
    
    * [死亡赋予生命意义]()
+
+   * [深圳市外来务工人员城市融入问题调查分析]()
  
 ## 06-Additional Activities
   
