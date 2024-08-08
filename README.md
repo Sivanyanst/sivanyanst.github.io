@@ -105,10 +105,10 @@ More details about me below.👇
     
 ## 07-Lifegallery 🖼️
 
-<figure class="third">
-    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ce904540c1456d5cf7e1e0e9fd25049.jpg" width="100"/>
+<figure class="eighth">
+    <img src=" https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/0efce2d2f28e5cd85c5084f9fd59c9f.png" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e6bdc9f0c034daf66628c8c459c951b.jpg" width="100"/>
-    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/f75cf9dcab821fd203d33a8b33256dd.jpg" width="100"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ce904540c1456d5cf7e1e0e9fd25049.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ea7ab14fd815b1c1bcb4ed3fb572787.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/f516331ae6c43642101985847542fcd.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/8f88922cb43a9825d2706edef3f5c59.jpg" width="100"/>
@@ -119,6 +119,7 @@ More details about me below.👇
 </figure>
 
 >我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。
+>
 >I am afraid that I am not a beautiful jade, so I do not dare to do hard work, but I half believe that I am a beautiful jade, so I refuse to be mediocre.
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
