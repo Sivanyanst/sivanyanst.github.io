@@ -6,7 +6,7 @@
 > 
 > EN-Sivan Yan CN-鄢申涛
 >
-> 🌱💴🚹♑🌈🎏🧘🐕🐎🥔🏈🏸📕📘
+> 🌱💴🚹♑🌈🎏🧘🐕🐎🥔🏈🏸📕📘🥰
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
@@ -85,26 +85,28 @@
    * [深圳市外来务工人员城市融入问题调查分析]()
  
 ## 06-Additional Activities
-  
+  - **Lihu Youth Center, SZU Communist Youth League Committee**
+    - Deputy Director, 2021.09-2024.06
+    
+  - **Student Party Building Work Committee, College of Economics**
+    - Team Leader, 2021.09-2023.09
+      
+  - **Standing Committee of the Student Representative Assembly, College of Economics**
+    - Committee Member，2022.09-2024.04
+    
 ## 07-Lifegallery 🖼️
 
 <figure class="third">
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ce904540c1456d5cf7e1e0e9fd25049.jpg" width="100"/>
-    <img src="" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e6bdc9f0c034daf66628c8c459c951b.jpg" width="100"/>
-    <img src="" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/f75cf9dcab821fd203d33a8b33256dd.jpg" width="100"/>
-    <img src="" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ea7ab14fd815b1c1bcb4ed3fb572787.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/f516331ae6c43642101985847542fcd.jpg" width="100"/>
-    <img src="" width="100"/>
-    <img src="" width="100"/>
-    <img src="" width="100"/>
-    <img src="" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/8f88922cb43a9825d2706edef3f5c59.jpg" width="100"/>
-    <img src="" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/3458076bb10dfbdb2ef0123c5deaefe.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/54bdfb9572ae8ae4de69bb5e05fb238.jpg" width="100"/>
+
+     <img src="" width="100"/>
 </figure>
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
