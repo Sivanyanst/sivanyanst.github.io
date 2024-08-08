@@ -106,7 +106,7 @@ More details about me below.👇
 ## 07-Lifegallery 🖼️
 
 <figure class="eighth">
-    <img src=" https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/0efce2d2f28e5cd85c5084f9fd59c9f.png" width="100"/>
+    <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/0efce2d2f28e5cd85c5084f9fd59c9f.png" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/e6bdc9f0c034daf66628c8c459c951b.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ce904540c1456d5cf7e1e0e9fd25049.jpg" width="100"/>
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/ea7ab14fd815b1c1bcb4ed3fb572787.jpg" width="100"/>
