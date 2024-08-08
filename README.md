@@ -13,7 +13,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
 ## Personal Statement
+I love the joys and tribulations my life has brought me. I will spend the rest of my life searching for a New Eden.
 
+Be authentic and enjoy being authentic. Interested in new technologies, good at learning different fields, and philosophical in analysing problems and looking for opportunities.
+
+My main areas of interest are blockchain, supply chain, fintech and literature, feel free to communicate.
+
+More details about me below.
 
 ## 00-Contact Information 🧣
 
@@ -108,6 +114,8 @@
 
      <img src="" width="100"/>
 </figure>
+>我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。
+>I am afraid that I am not a beautiful jade, so I do not dare to do hard work, but I half believe that I am a beautiful jade, so I refuse to be mediocre.
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
 
