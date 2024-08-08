@@ -17,7 +17,7 @@
 
 ## 00-Contact Information 🧣
 
- <smallpopo2003@gmail.com>|[Wechat](https://github.com/Sivanyanst/sivanyanst.github.io/blob/main/Wechat.jpg?raw=true) |[Telegram](https://t.me/LightSivan) |[X](https://x.com/0xJCXsivan200)(Twitter)|[Mastodon](https://daotodon.me/@JCXsivan)
+ [E-mail](smallpopo2003@gmail.com)|[Wechat](https://github.com/Sivanyanst/sivanyanst.github.io/blob/main/Wechat.jpg?raw=true) |[Telegram](https://t.me/LightSivan) |[X](https://x.com/0xJCXsivan200)(Twitter)|[Mastodon](https://daotodon.me/@JCXsivan)
 
  
 ## 01-Education 🎒
