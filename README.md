@@ -50,12 +50,12 @@ More details about me below.👇
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
   * Team Leader, November 2023–June 2024
-  * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/wnqf/)👈Click to View PDF Online
+  * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/wnqf/) 👈Click to View PDF Online
  
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
   * DA, September 2022-April 2023
-  * [基于深圳市家用新能源汽车消费者偏好的调查分析](https://online.fliphtml5.com/byksl/oamy/)👈Click to View PDF Online
+  * [基于深圳市家用新能源汽车消费者偏好的调查分析](https://online.fliphtml5.com/byksl/oamy/) 👈Click to View PDF Online
 
 ## 04-Intership 👨🏻‍🏭
 
@@ -78,17 +78,17 @@ More details about me below.👇
 ## 05-Academic Essay 📑
    * [中国新能源汽车行业研究报告202408版](https://online.fliphtml5.com/byksl/jzoj/)
    
-   * [《论摩诃摩耶及其悲剧》新解—泰戈尔及其背后的印度文化范式]()
+   * [《论摩诃摩耶及其悲剧》新解—泰戈尔及其背后的印度文化范式](https://online.fliphtml5.com/byksl/ckzd/)
    
-   * [“平庸之恶”的逻辑演进及启示]()
+   * [“平庸之恶”的逻辑演进及启示](https://online.fliphtml5.com/byksl/ykdn/)
    
-   * [深圳市商场营业额影响因素计量分析]()
+   * [深圳市商场营业额影响因素计量分析](https://online.fliphtml5.com/byksl/cxwq/)
    
    * [基于模拟退火算法的i-WMS方案设计与实现](https://online.fliphtml5.com/byksl/gzqt/)
    
-   * [死亡赋予生命意义]()
+   * [死亡赋予生命意义](https://online.fliphtml5.com/byksl/rsrn/)
 
-   * [深圳市外来务工人员城市融入问题调查分析]()
+   * [深圳市外来务工人员城市融入问题调查分析](https://online.fliphtml5.com/byksl/irlh/)
  
 ## 06-Additional Activities 🚩
   - **Lihu Youth Center, SZU Communist Youth League Committee**
