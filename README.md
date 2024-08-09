@@ -93,15 +93,15 @@ More details about me below.👇
 ## 06-Additional Activities 🚩
   - **Lihu Youth Center, SZU Communist Youth League Committee**
     
-    - Deputy Director, 2021.09-2024.06
+    - Deputy Director, Sept. 2021- June 2024
     
   - **Student Party Building Work Committee, College of Economics**
     
-    - Team Leader, 2021.09-2023.09
+    - Team Leader, Sept. 2021- Sept. 2023
       
   - **Standing Committee of the Student Representative Assembly, College of Economics**
     
-    - Committee Member，2022.09-2024.04
+    - Committee Member，Sept. 2022-April 2024
     
 ## 07-Lifegallery 🖼️
 
