@@ -15,7 +15,7 @@ I love the joys and tribulations my life has brought me. I will spend the rest o
 
 Be authentic and enjoy being authentic. Interested in new technologies, good at learning different fields, and philosophical in analysing problems and looking for opportunities.
 
-My main areas of interest are blockchain, supply chain, fintech and literature, feel free to communicate.
+My main areas of interest are **Blockchain**, **Supply Chain**, **Fintech** and **Literature**, feel free to communicate.
 
 More details about me below.👇
 
