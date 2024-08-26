@@ -3,8 +3,6 @@
 <p align="center"> <font size=6 >Sivan(Shentao) Yan</font> </p>
 
 > Hi There! This is an Info Page:)
-> 
-> EN-Sivan Yan CN-鄢申涛
 >
 > 🌱💴🚹♑🌈🎏🐕🐎🥔🏈🏸
 
@@ -77,6 +75,8 @@ More details about me below.👇
  
 ## 05-Academic Essay 📑
    * [中国新能源汽车行业研究报告202408版](https://online.fliphtml5.com/byksl/jzoj/)
+
+   * [为雅诗兰黛开发一款眼霜2024](https://online.fliphtml5.com/byksl/jhkb/)
    
    * [《论摩诃摩耶及其悲剧》新解—泰戈尔及其背后的印度文化范式](https://online.fliphtml5.com/byksl/ckzd/)
    
