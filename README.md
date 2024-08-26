@@ -45,6 +45,7 @@ More details about me below.👇
 * **[DAism](https://learn.daism.io/zh)**
 
   * Operation Team, **Co-Leader**, 2022.09-Present
+  * [Official Website](https://learn.daism.io/zh)👈Click to Get More Detials
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
   * Team Leader, November 2023–June 2024
