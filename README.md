@@ -125,7 +125,7 @@ More details about me below.👇
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
 
-<p align="right"> Last Update 6/8/2024  </p>
+<p align="right"> Last Update 26/8/2024  </p>
 
 ## END 👋🏻👋🏻
 
