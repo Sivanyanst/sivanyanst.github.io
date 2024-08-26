@@ -21,7 +21,7 @@ More details about me below.👇
 
 ## 00-Contact Information 🧣
 
- <smallpopo2003@gmail.com>\|[Wechat](https://github.com/Sivanyanst/sivanyanst.github.io/blob/main/Wechat.jpg?raw=true) \|[Telegram](https://t.me/LightSivan) \|[X(Twitter)](https://x.com/0xJCXsivan200)\|[Mastodon](https://daotodon.me/@JCXsivan)
+ <smallpopo2003@gmail.com>\|[Wechat](https://github.com/Sivanyanst/picgo/blob/main/img/8563bfc1-d265-4eef-a88e-587430a5cb2f.jpg?raw=true) \|[Telegram](https://t.me/LightSivan) \|[X(Twitter)](https://x.com/0xJCXsivan200)\|[Mastodon](https://daotodon.me/@JCXsivan)
 
  
 ## 01-Education 🎒
