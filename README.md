@@ -4,18 +4,23 @@
 
 > Hi There! This is an Info Page:)
 >
-> 🌱💴🚹♑🌈🎏🐕🐎🥔🏈🏸
+> 🚹♑💴🌈🎏🐕🥔🏈🏸INFJ
+> 
+> If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
 ## Personal Statement 💁‍♂️
-I love the joys and tribulations my life has brought me. I will spend the rest of my life searching for a New Eden.
 
-Be authentic and enjoy being authentic. Interested in new technologies, good at learning different fields, and philosophical in analysing problems and looking for opportunities.
+I embrace both the joys and trials that life presents, dedicating my journey to the pursuit of a <font style="background: rgb(149,0,64)" color=white>New Eden</font>. Authenticity lies at the heart of my existence, and I find profound fulfillment in <font style="background: rgb(149,0,64)" color=white>living true</font> to myself.
 
-My main areas of interest are **Blockchain**, **Supply Chain**, **Fintech** and **Literature**, feel free to communicate.
+My passion for freedom drives me, and I strongly resist constraints that stifle enjoyment. I am deeply committed to supporting others in following their truest desires and crafting lives that resonate with their inner selves. With a deep appreciation for diversity and an open mind, I thrive in engaging conversations with individuals from varied backgrounds and perspectives. There's nothing more satisfying than witnessing the spark of passion in someone’s eyes when they talk about what they love.
+
+Naturally inclined to leadership, I take pride in shouldering responsibility and guiding teams toward success. My approach to challenges is rooted in a philosophical mindset, always seeking the silver lining and opportunities within obstacles.
+
+My primary areas of interest include **Blockchain**, **Supply Chain**, **Fintech**, **Chinese History**, and **Literature**. I am always eager to engage in thoughtful discussions in these fields:)
 
 More details about me below.👇
 
@@ -124,7 +129,7 @@ More details about me below.👇
 >
 >I am afraid that I am not a jade, so I do not dare to do hard work, but I half believe that I am a jade, so I refuse to be mediocre.
 
-This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website.
+This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website and WeChat Official Account 阿饭的宝藏.
 
 <p align="right"> Last Update 26/8/2024  </p>
 
