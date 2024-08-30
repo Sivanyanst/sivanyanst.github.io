@@ -14,13 +14,13 @@
 
 ## Personal Statement 💁‍♂️
 
-I embrace both the joys and trials that life presents, dedicating my journey to the <font style="background: rgb(149,0,64)" color=white>pursuit of a New Eden</font>. Authenticity lies at the heart of my existence, and I find profound fulfillment in <font style="background: rgb(149,0,64)" color=white>living true to myself.</font>
+I embrace both the joys and trials that life presents, dedicating my journey to the <font color=blue>pursuit of a New Eden</font>. Authenticity lies at the heart of my existence, and I find profound fulfillment in <font color=blue>living true to myself.</font>
 
-My passion for freedom drives me, and I strongly resist constraints that stifle enjoyment. I am deeply committed to supporting others in following their truest desires and crafting lives that resonate with their inner selves. With a deep appreciation for diversity and an open mind, I thrive in engaging conversations with individuals from varied backgrounds and perspectives. <font style="background: rgb(149,0,64)" color=white>There's nothing more satisfying than witnessing the spark of passion in someone’s eyes when they talk about what they love.</font>
+My passion for freedom drives me, and I strongly resist constraints that stifle enjoyment. I am deeply committed to supporting others in following their truest desires and crafting lives that resonate with their inner selves. With a deep appreciation for diversity and an open mind, I thrive in engaging conversations with individuals from varied backgrounds and perspectives. <font color=blue>There's nothing more satisfying than witnessing the spark of passion in someone’s eyes when they talk about what they love.</font>
 
-Naturally inclined to leadership, I take pride in <font style="background: rgb(149,0,64)" color=white>shouldering responsibility and guiding teams toward success</font>. My approach to challenges is rooted in a philosophical mindset, always seeking the silver lining and opportunities within obstacles.
+Naturally inclined to leadership, I take pride in <font color=blue>shouldering responsibility and guiding teams toward success</font>. My approach to challenges is rooted in a philosophical mindset, always seeking the silver lining and opportunities within obstacles.
 
-My primary areas of interest include <font style="background: rgb(149,0,64)" color=white>**Blockchain**, **Supply Chain**, **Fintech**, **Chinese History**, and **Literature**</font>. I am always eager to engage in thoughtful discussions in these fields:)
+My primary areas of interest include <font color=blue>**Blockchain**, **Supply Chain**, **Fintech**, **Chinese History**, and **Literature**</font>. I am always eager to engage in thoughtful discussions in these fields:)
 
 More details about me below.👇
 
