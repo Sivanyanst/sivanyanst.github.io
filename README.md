@@ -54,29 +54,31 @@ More details about me below.👇
   * [Official Website](https://learn.daism.io/zh)👈Click to Get More Detials
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
-  * Team Leader, November 2023–June 2024
+  * **Team Leader**, November 2023–June 2024
   * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/wnqf/) 👈Click to View PDF Online
  
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
-  * DA, September 2022-April 2023
+  * **DA**, September 2022-April 2023
   * [基于深圳市家用新能源汽车消费者偏好的调查分析](https://online.fliphtml5.com/byksl/oamy/) 👈Click to View PDF Online
 
 ## 04-Intership 👨🏻‍🏭
 
 * [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
   
-  <font style="background: rgb(149,0,64)" color=white>The leading supply chain financial technology solution provider in China</font>
+   <font color=blue>The leading supply chain financial technology solution provider in China</font>
   
   * Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Present
 * [**Penta Lab.io**](https://www.pentalab.io/ " An Independent and Authoritative Blockchain Research Institute in Hong Kong ")
   
-  <font style="background: rgb(149,0,64)" color=white>An Independent and Authoritative Blockchain Research Institute in Hong Kong</font>
+   <font color=blue>An Independent and Authoritative Blockchain Research Institute in Hong Kong</font>
   
   * Editorial Department, Intern
 * [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
   
-  <font style="background: rgb(149,0,64)" color=white>A technology company specializing in blockchain games</font>
+  <font color=blue>A technology company specializing in blockchain games</font>
+
+
 
   * Market Operations Department, Intern
  
