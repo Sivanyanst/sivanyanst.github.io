@@ -66,20 +66,18 @@ More details about me below.👇
 
 * [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
   
-   <font color=blue>The leading supply chain financial technology solution provider in China</font>
+   <b>The leading supply chain financial technology solution provider in China</b>
   
   * Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Present
 * [**Penta Lab.io**](https://www.pentalab.io/ " An Independent and Authoritative Blockchain Research Institute in Hong Kong ")
   
-   <font color=blue>An Independent and Authoritative Blockchain Research Institute in Hong Kong</font>
+   <b>An Independent and Authoritative Blockchain Research Institute in Hong Kong</b>
   
   * Editorial Department, Intern
 * [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
   
-  <font color=blue>A technology company specializing in blockchain games</font>
-
-
-
+  <b>A technology company specializing in blockchain games</b>
+  
   * Market Operations Department, Intern
  
 ## 05-Academic Essay 📑
