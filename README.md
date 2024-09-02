@@ -64,11 +64,17 @@ More details about me below.👇
 
 ## 04-Intership 👨🏻‍🏭
 
+*[S.F.Express Co.,Ltd.](https://htm.sf-express.com/hk/en/)
+
+<b>The largest integrated logistics service provider in China and Asia, and the fourth largest in the world</b>
+
+ *The Eagle Plan, Intern
+
 * [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
   
    <b>The leading supply chain financial technology solution provider in China</b>
   
-  * Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Present
+  * Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Sept. 2024
 * [**Penta Lab.io**](https://www.pentalab.io/ " An Independent and Authoritative Blockchain Research Institute in Hong Kong ")
   
    <b>An Independent and Authoritative Blockchain Research Institute in Hong Kong</b>
