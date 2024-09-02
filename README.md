@@ -39,12 +39,12 @@ More details about me below.👇
 ## 02-Selected Awards and Honors 🏆
 
 * `Second Prize`, China 8th National College Student Logistics Design Competition (2024)
-* LiYuan Outstanding Scholarship of [Shenzhen University](https://en.szu.edu.cn/) (2023, **Second-level** **Scholarship**,¥20kRMB)
-* "**Tencent Yiyou**" Outstanding Class Mentor (2023)
 * `Third Prize`, "Chia Tai Cup" 13th National College Student Market Survey and Analysis Competition (2023)
 * `First Prize`, University Learning Star Award (2023)
 * `First Prize`, University Public Welfare Star Award (2023)
 * `First Prize`, Excellent Student Cadre (2023)
+* LiYuan Outstanding Scholarship of [Shenzhen University](https://en.szu.edu.cn/) (2023, **Second-level** **Scholarship**,¥20kRMB)
+* "**Tencent Yiyou**" Outstanding Class Mentor (2023)
   
 ## 03-Project 📋
 
@@ -64,27 +64,27 @@ More details about me below.👇
 
 ## 04-Intership 👨🏻‍🏭
 
-*[S.F.Express Co.,Ltd.](https://htm.sf-express.com/hk/en/)
+* [S.F.Express Co.,Ltd.](https://htm.sf-express.com/hk/en/)
 
-<b>The largest integrated logistics service provider in China and Asia, and the fourth largest in the world</b>
+   <b>The largest integrated logistics service provider in China and Asia, and the fourth largest in the world</b>
 
- *The Eagle Plan, Intern
+  * The Eagle Plan, Intern, September 2024 - Present
 
 * [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
   
    <b>The leading supply chain financial technology solution provider in China</b>
   
-  * Pre-Sales Solutions Department, **Assistant Solution Manager**，July 2024 – Sept. 2024
+  * Pre-Sales Solutions Department, **Assistant Solution Manager** , July 2024 – September 2024
 * [**Penta Lab.io**](https://www.pentalab.io/ " An Independent and Authoritative Blockchain Research Institute in Hong Kong ")
   
    <b>An Independent and Authoritative Blockchain Research Institute in Hong Kong</b>
   
-  * Editorial Department, Intern
+  * Editorial Department, Intern, April 2024 - July 2024
 * [**AiKe Technology Co., Ltd.**](https://x.com/game_pupi "A technology company specializing in blockchain games")
   
   <b>A technology company specializing in blockchain games</b>
   
-  * Market Operations Department, Intern
+  * Market Operations Department, Intern, September 2023 - April 2024
  
 ## 05-Academic Essay 📑
    * [中国新能源汽车行业研究报告202408版](https://online.fliphtml5.com/byksl/jzoj/)
