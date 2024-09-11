@@ -49,13 +49,18 @@ More details about me below.👇
 ## 03-Project 📋
 
 * **[DAism](https://learn.daism.io/zh)**
-
+  
   * Operation Team, **Co-Leader**, 2022.09-Present
   * [Official Website](https://learn.daism.io/zh)👈Click to Get More Detials
+    
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
   * **Team Leader**, November 2023–June 2024
   * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/wnqf/) 👈Click to View PDF Online
+
+* **"Challenge Cup" Extracurricular Academic and Technological Innovation Competition**
+  * **Team Leader**, May 2023-September 2023
+  * [深圳市外来务工人员城市融入问题调查分析](https://online.fliphtml5.com/byksl/irlh/) 👈Click to View PDF Online
  
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
@@ -101,7 +106,6 @@ More details about me below.👇
    
    * [死亡赋予生命意义](https://online.fliphtml5.com/byksl/rsrn/)
 
-   * [深圳市外来务工人员城市融入问题调查分析](https://online.fliphtml5.com/byksl/irlh/)
  
 ## 06-Additional Activities 🚩
   - **Lihu Youth Center, SZU Communist Youth League Committee**
@@ -115,6 +119,10 @@ More details about me below.👇
   - **Standing Committee of the Student Representative Assembly, College of Economics**
     
     - Committee Member，Sept. 2022-April 2024
+      
+  - **Shiguang Yidu Project Team: Educational Support in Guilin, Guangxi**
+
+    - Team member，July 2022-August 2022
     
 ## 07-Lifegallery 🖼️
 
