@@ -59,6 +59,7 @@ More details about me below.👇
   * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/wnqf/) 👈Click to View PDF Online
 
 * **"Challenge Cup" Extracurricular Academic and Technological Innovation Competition**
+  
   * **Team Leader**, May 2023-September 2023
   * [深圳市外来务工人员城市融入问题调查分析](https://online.fliphtml5.com/byksl/irlh/) 👈Click to View PDF Online
  
