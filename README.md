@@ -4,7 +4,7 @@
 
 > Hi There! This is an Info Page:)
 >
-> 🚹♑💴🌈🎏🐕🥔🏈🏸INFJ
+> 🚹♑💴🎏🐕🥔🏈🏸INFJ
 > 
 > If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
