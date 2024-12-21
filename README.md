@@ -35,6 +35,7 @@ More details about me below.👇
 
   ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/PTL2GA-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) ![Static Badge](https://img.shields.io/badge/Software-MatLab_SPSS_AmosGraphics_EViews-blue) 
  
+ | **Useful Tool** [Anylogic Website](www.anylogic.com) |
  
 ## 02-Selected Awards and Honors 🏆
 
