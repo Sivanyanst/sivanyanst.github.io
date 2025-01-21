@@ -33,9 +33,9 @@ More details about me below.👇
 
  ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-blue)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-blue)  ![Static Badge](https://img.shields.io/badge/Class-2025-blue)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-blue)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-blue) 
 
-  ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/PTL2GA-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) ![Static Badge](https://img.shields.io/badge/Software-MatLab_SPSS_AmosGraphics_EViews-blue) 
+  ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/PTL2GA-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) ![Static Badge]
  
- | **Useful Tool** [Anylogic Website](www.anylogic.com) |
+ | **Academic Tool**| [Anylogic](www.anylogic.com) |PyCharm|Matlab|SPSS|AmosGraphics|EViews|
  
 ## 02-Selected Awards and Honors 🏆
 
@@ -155,3 +155,4 @@ This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb
 
 <center>Powered by Github Pages</center>
 
+    (https://img.shields.io/badge/Software-MatLab_SPSS_AmosGraphics_EViews-blue) 
