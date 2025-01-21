@@ -155,4 +155,3 @@ This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb
 
 <center>Powered by Github Pages</center>
 
-    ![Static Badge](https://img.shields.io/badge/Software-MatLab_SPSS_AmosGraphics_EViews-blue) 
