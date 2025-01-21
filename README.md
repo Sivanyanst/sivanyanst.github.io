@@ -94,6 +94,9 @@ More details about me below.👇
   * Market Operations Department, Intern, September 2023 - April 2024
  
 ## 05-Academic Essay 📑
+
+> These essays are all in Chinese.
+
    * [China New Energy Vehicle Industry Research Report](https://online.fliphtml5.com/byksl/jzoj/)
 
    * [Developing an Eye Cream for Estée Lauder 2024](https://online.fliphtml5.com/byksl/jhkb/)
