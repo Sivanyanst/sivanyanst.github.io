@@ -35,7 +35,7 @@ More details about me below.👇
 
   ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/PTL2GA-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) 
  
- | **Academic Tool**| [Anylogic](www.anylogic.com) |PyCharm|Matlab|SPSS|AmosGraphics|EViews|
+ | **Academic Tools**| [Anylogic](www.anylogic.com) |PyCharm|Matlab|SPSS|AmosGraphics|EViews|
  
 ## 02-Selected Awards and Honors 🏆
 
@@ -44,7 +44,7 @@ More details about me below.👇
 * `First Prize`, University Learning Star Award (2023)
 * `First Prize`, University Public Welfare Star Award (2023)
 * `First Prize`, Excellent Student Cadre (2023)
-* LiYuan Outstanding Scholarship of [Shenzhen University](https://en.szu.edu.cn/) (2023, **Second-level** **Scholarship**,¥20kRMB)
+* LiYuan Outstanding Scholarship of [Shenzhen University](https://en.szu.edu.cn/) (2023&2024, **Second-level** **Scholarship**,¥20kRMB)
 * "**Tencent Yiyou**" Outstanding Class Mentor (2023)
   
 ## 03-Project 📋
@@ -57,17 +57,17 @@ More details about me below.👇
 * **["Changchun International Automobile City & FAW Logistics Cup" 8th NCSLDC](http://www.clpp.org.cn/index.php?m=content&c=index&a=show&catid=257&id=418)**
   
   * **Team Leader**, November 2023–June 2024
-  * [一汽物流数智调度决策优化方案设计](https://online.fliphtml5.com/byksl/wnqf/) 👈Click to View PDF Online
+  * [FAW Logistics Digital and Intelligent Dispatch Decision Optimization Solution Design ](https://online.fliphtml5.com/byksl/wnqf/) 👈Click to View PDF Online
 
 * **"Challenge Cup" Extracurricular Academic and Technological Innovation Competition**
   
   * **Team Leader**, May 2023-September 2023
-  * [深圳市外来务工人员城市融入问题调查分析](https://online.fliphtml5.com/byksl/irlh/) 👈Click to View PDF Online
+  * [Investigation and Analysis of Urban Integration Issues of Migrant Workers in Shenzhen](https://online.fliphtml5.com/byksl/irlh/) 👈Click to View PDF Online
  
 * **["Chia Tai Cup" National College Student Market Survey and Analysis Competition](http://www.china-cssc.org/show-259-1154-1.html)**
   
   * **DA**, September 2022-April 2023
-  * [基于深圳市家用新能源汽车消费者偏好的调查分析](https://online.fliphtml5.com/byksl/oamy/) 👈Click to View PDF Online
+  * [Survey and Analysis Based on Consumer Preferences for Household New Energy Vehicles in Shenzhen ](https://online.fliphtml5.com/byksl/oamy/) 👈Click to View PDF Online
 
 ## 04-Intership 👨🏻‍🏭
 
@@ -94,19 +94,19 @@ More details about me below.👇
   * Market Operations Department, Intern, September 2023 - April 2024
  
 ## 05-Academic Essay 📑
-   * [中国新能源汽车行业研究报告202408版](https://online.fliphtml5.com/byksl/jzoj/)
+   * [China New Energy Vehicle Industry Research Report](https://online.fliphtml5.com/byksl/jzoj/)
 
-   * [为雅诗兰黛开发一款眼霜2024](https://online.fliphtml5.com/byksl/jhkb/)
+   * [Developing an Eye Cream for Estée Lauder 2024](https://online.fliphtml5.com/byksl/jhkb/)
    
-   * [《论摩诃摩耶及其悲剧》新解—泰戈尔及其背后的印度文化范式](https://online.fliphtml5.com/byksl/ckzd/)
+   * [A New Interpretation of “Mahamaya and Her Tragedy” - Tagore and the Indian Cultural Paradigm Behind Him](https://online.fliphtml5.com/byksl/ckzd/)
    
-   * [“平庸之恶”的逻辑演进及启示](https://online.fliphtml5.com/byksl/ykdn/)
+   * [The Logical Evolution and Enlightenment of “The Banality of Evil”](https://online.fliphtml5.com/byksl/ykdn/)
    
-   * [深圳市商场营业额影响因素计量分析](https://online.fliphtml5.com/byksl/cxwq/)
+   * [Econometric Analysis of Factors Influencing the Turnover of Shopping Malls in Shenzhen](https://online.fliphtml5.com/byksl/cxwq/)
    
-   * [基于模拟退火算法的i-WMS方案设计与实现](https://online.fliphtml5.com/byksl/gzqt/)
+   * [Design and Implementation of i-WMS Solution Based on Simulated Annealing Algorithm](https://online.fliphtml5.com/byksl/gzqt/)
    
-   * [死亡赋予生命意义](https://online.fliphtml5.com/byksl/rsrn/)
+   * [Death Gives Meaning to Life](https://online.fliphtml5.com/byksl/rsrn/)
 
  
 ## 06-Additional Activities 🚩
