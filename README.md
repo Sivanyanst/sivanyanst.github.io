@@ -26,7 +26,7 @@ More details about me below.👇
 
 ## 00-Contact Information 🧣
 
- <smallpopo2003@gmail.com>\|[Telegram](https://t.me/LightSivan) \|[X(Twitter)](https://x.com/0xJCXsivan200)\|[Mastodon](https://daotodon.me/@JCXsivan)
+|<smallpopo2003@gmail.com>|[X(Twitter)](https://x.com/0xJCXsivan200)|[Mastodon](https://daotodon.me/@JCXsivan)|
 
  
 ## 01-Education 🎒
