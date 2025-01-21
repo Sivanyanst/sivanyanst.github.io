@@ -147,7 +147,7 @@ More details about me below.👇
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website and WeChat Official Account 阿饭的宝藏.
 
-<p align="right"> Last Update 26/8/2024  </p>
+<p align="right"> Last Update 21/01/2025  </p>
 
 ## END 👋🏻👋🏻
 
