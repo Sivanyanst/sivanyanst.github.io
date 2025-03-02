@@ -10,21 +10,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
 
-
-
-
-
-
-
-
-
-
-
-
+## Personal Statement 💁‍♂️
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
-## Personal Statement 💁‍♂️
+
+
+
 
 I am an undergraduate student at [Shenzhen University](https://en.szu.edu.cn/), majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
 
