@@ -1,10 +1,10 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-<p align="center"> <font size=8 ><b>Sivan(Shentao) Yan</b></font> </p>
+<p align="center"> <font size=6 ><b>Sivan(Shentao) Yan</b></font> </p>
 
 > Hi There! This is an Info Page:)
 >
-> Key words🚹♑🐕🥔🏈🏸<b>INFJ</b>
+> 🚹♑🐕🥔🏈🏸<b>INFJ</b>
 > 
 > If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
@@ -14,28 +14,35 @@
 
 ## Personal Statement 💁‍♂️
 
-I embrace both the joys and trials that life presents, dedicating my journey to the <b><font color=blue>pursuit of a New Eden</font></b>. Authenticity lies at the heart of my existence, and I find profound fulfillment in <b><font color=blue>living true to myself.</font></b>
+I am an undergraduate student at Shenzhen University, majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
 
-My passion for freedom drives me, and I strongly resist constraints that stifle enjoyment. I am deeply committed to supporting others in following their truest desires and crafting lives that resonate with their inner selves. With a deep appreciation for diversity and an open-mind, I thrive in engaging conversations with individuals from <b><font color=blue>varied backgrounds and perspectives</font></b>. There's nothing more satisfying than witnessing the <b><font color=blue>spark of passion in someone’s eyes</font></b> when they talk about what they love.
+My primary areas of interest include <b><font color=blue>Blockchain,Operation Research, Supply Chain, Fintech, Chinese History, and Literature</font></b>. I am always eager to engage in thoughtful discussions in these fields:)
 
-Naturally inclined to leadership, I take pride in <b><font color=blue>shouldering responsibility and guiding teams toward success</font></b>. My approach to challenges is rooted in a philosophical mindset, always seeking the silver lining and opportunities within obstacles.
+## 00-Contact Me🧣
 
-My primary areas of interest include <b><font color=blue>Blockchain, Supply Chain, Fintech, Chinese History, and Literature</font></b>. I am always eager to engage in thoughtful discussions in these fields:)
+<smallpopo2003@gmail.com>
 
-More details about me below.👇
+## 01-Academic Essay 📑
 
-## 00-Contact Information 🧣
+> These essays are all in Chinese.
 
-|<smallpopo2003@gmail.com>|
-
- 
-## 01-Education 🎒
-
- ![Static Badge](https://img.shields.io/badge/College-Shenzhen_University-blue)  ![Static Badge](https://img.shields.io/badge/Major-Supply_Chain_Finance-blue)  ![Static Badge](https://img.shields.io/badge/Class-2025-blue)  ![Static Badge](https://img.shields.io/badge/GPA-4.08/4.50-blue)  ![Static Badge](https://img.shields.io/badge/Research-Blockchain_Fintech_OR_SCM-blue) 
-
-  ![Static Badge](https://img.shields.io/badge/CET%206-green)  ![Static Badge](https://img.shields.io/badge/PTL2GA-green)  ![Static Badge](https://img.shields.io/badge/Certification%20of%20Logistics%20Professional%20Proficiency%20CLPP-green)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) 
+ ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) 
  
  | **Academic Tools**| [Anylogic](www.anylogic.com) |PyCharm|Matlab|SPSS|AmosGraphics|EViews|
+
+   * [China New Energy Vehicle Industry Research Report](https://online.fliphtml5.com/byksl/jzoj/)
+
+   * [Developing an Eye Cream for Estée Lauder 2024](https://online.fliphtml5.com/byksl/jhkb/)
+   
+   * [A New Interpretation of “Mahamaya and Her Tragedy” - Tagore and the Indian Cultural Paradigm Behind Him](https://online.fliphtml5.com/byksl/ckzd/)
+   
+   * [The Logical Evolution and Enlightenment of “The Banality of Evil”](https://online.fliphtml5.com/byksl/ykdn/)
+   
+   * [Econometric Analysis of Factors Influencing the Turnover of Shopping Malls in Shenzhen](https://online.fliphtml5.com/byksl/cxwq/)
+   
+   * [Design and Implementation of i-WMS Solution Based on Simulated Annealing Algorithm](https://online.fliphtml5.com/byksl/gzqt/)
+   
+   * [Death Gives Meaning to Life](https://online.fliphtml5.com/byksl/rsrn/)
  
 ## 02-Selected Awards and Honors 🏆
 
@@ -93,26 +100,7 @@ More details about me below.👇
   
   * Market Operations Department, Intern, September 2023 - April 2024
  
-## 05-Academic Essay 📑
-
-> These essays are all in Chinese.
-
-   * [China New Energy Vehicle Industry Research Report](https://online.fliphtml5.com/byksl/jzoj/)
-
-   * [Developing an Eye Cream for Estée Lauder 2024](https://online.fliphtml5.com/byksl/jhkb/)
-   
-   * [A New Interpretation of “Mahamaya and Her Tragedy” - Tagore and the Indian Cultural Paradigm Behind Him](https://online.fliphtml5.com/byksl/ckzd/)
-   
-   * [The Logical Evolution and Enlightenment of “The Banality of Evil”](https://online.fliphtml5.com/byksl/ykdn/)
-   
-   * [Econometric Analysis of Factors Influencing the Turnover of Shopping Malls in Shenzhen](https://online.fliphtml5.com/byksl/cxwq/)
-   
-   * [Design and Implementation of i-WMS Solution Based on Simulated Annealing Algorithm](https://online.fliphtml5.com/byksl/gzqt/)
-   
-   * [Death Gives Meaning to Life](https://online.fliphtml5.com/byksl/rsrn/)
-
- 
-## 06-Additional Activities 🚩
+## 05-Additional Activities 🚩
   - **Lihu Youth Center, SZU Communist Youth League Committee**
     
     - Deputy Director, Sept. 2021- June 2024
@@ -129,7 +117,7 @@ More details about me below.👇
 
     - Team member，July 2022-August 2022
     
-## 07-Lifegallery 🖼️
+## 06-Lifegallery 🖼️
 
 <figure class="eighth">
     <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/0efce2d2f28e5cd85c5084f9fd59c9f.png" width="100"/>
