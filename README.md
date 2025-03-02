@@ -1,6 +1,6 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-<span><p align="center"> <font size=6 ><b>Sivan Yan | 鄢申涛</b></font> </p></span>
+<p align="center"> <font size=6 ><b>Sivan(Shentao) Yan</b></font> </p>
 
 > Hi There! This is an Info Page:)
 >
