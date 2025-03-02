@@ -26,8 +26,7 @@ If you want to do something fun together or establish a deeper connection with m
 
  <font size=5>📧</font> <font size=5><b><span style="border-bottom:2px solid #984B4B;">Contact Me</span></b></font>         
 
-   
-<smallpopo2003@gmail.com>
+|<smallpopo2003@gmail.com>|<smallpopo200@outlook.com>|
 
 ## 01-Academic Essay 📑
 
