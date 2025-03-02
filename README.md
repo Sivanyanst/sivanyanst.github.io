@@ -5,9 +5,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) 
 
 ## Personal Statement 💁‍♂️
+<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
-
-<div style="text-align: right;">
+<div style="align: right;">
     <img style="width: 29%;" src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d7; display: inline-block; color: #999; padding: 1px;">Photo by Housen Wang in Yanji.</div>
