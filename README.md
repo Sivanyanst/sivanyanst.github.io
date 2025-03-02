@@ -2,25 +2,19 @@
 
 <p align="center"> <font size=6 ><b>Sivan(Shentao) Yan</b></font> </p>
 
-> Hi There! This is an Info Page:)
->
-> 🚹♑🐕🥔🏈🏸<b>INFJ</b>
-> 
-> If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) 
 
 ## Personal Statement 💁‍♂️
 
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
-
-
-
+🚹♑🐕🥔🏈🏸<b>INFJ</b>
 
 I am an undergraduate student at [Shenzhen University](https://en.szu.edu.cn/), majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
 
 My primary areas of interest include <b><font color=blue>Blockchain,Operation Research, Supply Chain, Fintech, Chinese History, and Literature</font></b>. I am always eager to engage in thoughtful discussions in these fields:)
+
+If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
 ## 00-Contact Me🧣
 
@@ -30,7 +24,7 @@ My primary areas of interest include <b><font color=blue>Blockchain,Operation Re
 
 > These essays are all in Chinese.
 
- ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) 
+
  
  | **Academic Tools**| [Anylogic](www.anylogic.com) |PyCharm|Matlab|SPSS|AmosGraphics|EViews|
 
