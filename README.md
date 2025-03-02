@@ -6,13 +6,12 @@
 
 ## Personal Statement 💁‍♂️
 
-<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 <right>
     <img style="width: 29%; border-radius: 0.32em;
     box-shadow: 0 2px 5px 0 rgba(35,36,38,.12),0 2px 10px 0 rgba(35,36,38,.08);" 
     src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg">
     <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d7;
+    <div style="
     display: inline-block;
     color: #999;
     padding: 2px;">Photo by Housen Wang in Yanji.</div>
@@ -138,7 +137,7 @@ If you want to do something fun together or establish a deeper connection with m
      <img src="" width="100"/>
 </figure>
 
-><span style="border-bottom:2px solid green;">我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。</span>
+><span style="border-bottom:2px solid #984B4B;">我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。</span>
 >
 >I am afraid that I am not a jade, so I do not dare to do hard work, but I half believe that I am a jade, so I refuse to be mediocre.
 
