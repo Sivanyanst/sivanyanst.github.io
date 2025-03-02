@@ -24,8 +24,8 @@ My primary areas of interest include <b><font color=blue>Blockchain, Operation R
 
 If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
-## 00-Contact Me 📧
-<font size=4><b><span style="border-bottom:2px solid #984B4B;">Contact Me📧</span></b></font>
+📧<font size=5><b><span style="border-bottom:2px solid #984B4B;">Contact Me</span></b></font>
+
 <smallpopo2003@gmail.com>
 
 ## 01-Academic Essay 📑
