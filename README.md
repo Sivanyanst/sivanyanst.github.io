@@ -5,16 +5,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsivanyanst.github.io&count_bg=%23950040&title_bg=%23555555&icon=wechat.svg&icon_color=%23E7E7E7&title=hitcount&edge_flat=false)](https://hits.seeyoufarm.com)  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0xJCXsivan200)  ![Static Badge](https://img.shields.io/badge/Program-Python_Solidity_Markdown-blue) 🚹♑🐕🥔🏈🏸<b>INFJ</b>
 
 ## Personal Statement 💁‍♂️
+<img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
+<div style="display: inline-block;color: #999;padding: 2px;">Photo by Housen Wang in Yanji.</div>
 
 <right>
-    <img style="width: 29%; border-radius: 0.32em;
-    box-shadow: 0 2px 5px 0 rgba(35,36,38,.12),0 2px 10px 0 rgba(35,36,38,.08);" 
-    src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg">
+    <img style="width: 29%;" src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg">
     <br>
-    <div style="
-    display: inline-block;
-    color: #999;
-    padding: 2px;">Photo by Housen Wang in Yanji.</div>
+    
 </right>
 
 I am an undergraduate student at [Shenzhen University](https://en.szu.edu.cn/), majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
