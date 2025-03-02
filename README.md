@@ -6,12 +6,11 @@
 
 ## Personal Statement 💁‍♂️
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
-<div style="display: inline-block;color: #999;padding: 2px;">Photo by Housen Wang in Yanji.</div>
+
 
 <right>
     <img style="width: 29%;" src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg">
-    <br>
-    
+    <div style="display: inline-block;color: #999;padding: 2px;">Photo by Housen Wang in Yanji.</div>
 </right>
 
 I am an undergraduate student at [Shenzhen University](https://en.szu.edu.cn/), majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
