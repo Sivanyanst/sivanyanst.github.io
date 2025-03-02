@@ -19,6 +19,9 @@
 
 
 
+
+
+
 <img src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg" width = "280" height = "200" alt="PFP" div align=right/> 
 
 ## Personal Statement 💁‍♂️
