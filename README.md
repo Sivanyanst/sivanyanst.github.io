@@ -24,7 +24,7 @@ My primary areas of interest include <b><font color=blue>Blockchain, Operation R
 
 If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
- <font size=5>📧</font> <font size=5><b><span style="border-bottom:2px solid #984B4B;">Contact Me</span></b></font>         
+ <font size=5>📧</font> <font size=5><b>Contact Me</b></font>         
 
 |<smallpopo2003@gmail.com>|<smallpopo200@outlook.com>|
 
@@ -142,8 +142,8 @@ If you want to do something fun together or establish a deeper connection with m
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website and WeChat Official Account 阿饭的宝藏.
 
-<p align="right"> Last Update 03/03/2025  </p>
 
+<span style="border-bottom:2px solid #984B4B;"><p align="right"> Last Update 03/03/2025  </p></span>
 ## END 👋🏻👋🏻
 
 <center>©️ 2024 by Sivan Yan</center>
