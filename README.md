@@ -1,10 +1,10 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-<p align="center"> <font size=6 >Sivan(Shentao) Yan</font> </p>
+<p align="center"> <font size=8 ><b>Sivan(Shentao) Yan</b></font> </p>
 
 > Hi There! This is an Info Page:)
 >
-> 🚹♑💴🎏🐕🥔🏈🏸INFJ
+> Key words🚹♑🐕🥔🏈🏸<b>INFJ</b>
 > 
 > If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
@@ -75,7 +75,7 @@ More details about me below.👇
 
    <b>The largest integrated logistics service provider in China and Asia, and the fourth largest in the world</b>
 
-  * The Eagle Plan, Intern, September 2024 - Present
+  * The Eagle Plan, Intern, September 2024 - October 2024
 
 * [**Linklogis Digital Technology Group Co., Ltd**](https://www.linklogis.com/ "The leading supply chain financial technology solution provider in China")
   
@@ -150,7 +150,7 @@ More details about me below.👇
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website and WeChat Official Account 阿饭的宝藏.
 
-<p align="right"> Last Update 21/01/2025  </p>
+<p align="right"> Last Update 03/03/2025  </p>
 
 ## END 👋🏻👋🏻
 
