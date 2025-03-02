@@ -6,17 +6,8 @@
 
 ## Personal Statement 💁‍♂️
 
-<right>
-    <img style="width: 29%;" 
-    src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg">
-    <br>
-    <div style="color:orange; border-bottom: 1px solid #d9d9d7;
-    display: inline-block;
-    color: #999;
-    padding: 1px;">Photo by Housen Wang in Yanji.</div>
-</right>
 
-<div style="text-align: leftright;">
+<div style="text-align: right;">
     <img style="width: 29%;" src="https://cdn.jsdelivr.net/gh/sivanyanst/picgo@main/img/1pfp.jpg">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d7; display: inline-block; color: #999; padding: 1px;">Photo by Housen Wang in Yanji.</div>
