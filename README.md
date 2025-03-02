@@ -1,6 +1,6 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-<p align="center"> <font size=6 ><b>Sivan(Shentao) Yan</b></font> </p>
+<p align="center"> <font size=6 ><b>Sivan Yan|鄢申涛</b></font> </p>
 
 > Hi There! This is an Info Page:)
 >
@@ -14,7 +14,7 @@
 
 ## Personal Statement 💁‍♂️
 
-I am an undergraduate student at Shenzhen University, majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
+I am an undergraduate student at [Shenzhen University](https://en.szu.edu.cn/), majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
 
 My primary areas of interest include <b><font color=blue>Blockchain,Operation Research, Supply Chain, Fintech, Chinese History, and Literature</font></b>. I am always eager to engage in thoughtful discussions in these fields:)
 
