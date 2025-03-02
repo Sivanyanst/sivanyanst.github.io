@@ -20,21 +20,19 @@
 
 I am an undergraduate student at [Shenzhen University](https://en.szu.edu.cn/), majoring in Supply Chain Management under the supervision of Associate Professor XTR Kong, and will commence studies in <b><font color=blue>Low-Altitude Economics</font></b> at <b>Hong Kong Polytechnic University</b> in September 2025.
 
-My primary areas of interest include <b><font color=blue>Blockchain,Operation Research, Supply Chain, Fintech, Chinese History, and Literature</font></b>. I am always eager to engage in thoughtful discussions in these fields:)
+My primary areas of interest include <b><font color=blue>Blockchain, Operation Research, Supply Chain, Fintech, Chinese History, and Literature</font></b>. I am always eager to engage in thoughtful discussions in these fields:)
 
 If you want to do something fun together or establish a deeper connection with me, feel free to check out this **MANUAL**.
 
-## 00-Contact Me🧣
-
+## 00-Contact Me 📧
+<font size=4><b><span style="border-bottom:2px solid #984B4B;">Contact Me📧</span></b></font>
 <smallpopo2003@gmail.com>
 
 ## 01-Academic Essay 📑
 
 > These essays are all in Chinese.
 
-
- 
- | **Academic Tools**| [Anylogic](www.anylogic.com) |PyCharm|Matlab|SPSS|AmosGraphics|EViews|
+ |**Academic Tools**| [Anylogic](www.anylogic.com) |PyCharm|Matlab|SPSS|AmosGraphics|EViews|
 
    * [China New Energy Vehicle Industry Research Report](https://online.fliphtml5.com/byksl/jzoj/)
 
@@ -138,7 +136,7 @@ If you want to do something fun together or establish a deeper connection with m
      <img src="" width="100"/>
 </figure>
 
-><span style="border-bottom:2px solid #984B4B;">我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。</span>
+>我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。
 >
 >I am afraid that I am not a jade, so I do not dare to do hard work, but I half believe that I am a jade, so I refuse to be mediocre.
 
