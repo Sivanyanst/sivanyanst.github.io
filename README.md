@@ -136,14 +136,14 @@ If you want to do something fun together or establish a deeper connection with m
      <img src="" width="100"/>
 </figure>
 
->我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。
+><span style="border-bottom:2px solid #984B4B;">我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。</span>
 >
 >I am afraid that I am not a jade, so I do not dare to do hard work, but I half believe that I am a jade, so I refuse to be mediocre.
 
 This template is a modification to [Michael(Chengbo) Yuan](https://michaelyuancb.github.io/)'s website and WeChat Official Account 阿饭的宝藏.
 
 
-<span style="border-bottom:2px solid #984B4B;"><p align="right"> Last Update 03/03/2025  </p></span>
+<p align="right"> Last Update 03/03/2025 </p>
 ## END 👋🏻👋🏻
 
 <center>©️ 2024 by Sivan Yan</center>
