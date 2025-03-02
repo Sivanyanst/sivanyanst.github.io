@@ -1,6 +1,6 @@
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
-<p align="center"> <font size=6 ><b>Sivan Yan | 鄢申涛</b></font> </p>
+<span><p align="center"> <font size=6 ><b>Sivan Yan | 鄢申涛</b></font> </p></span>
 
 > Hi There! This is an Info Page:)
 >
@@ -132,7 +132,7 @@ My primary areas of interest include <b><font color=blue>Blockchain,Operation Re
      <img src="" width="100"/>
 </figure>
 
->我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。
+><span style="border-bottom:1px solid blue;">我深怕自己并非美玉，故而不敢加以刻苦琢磨，却又半信自己是块美玉，故而又不肯庸庸碌碌。</span>
 >
 >I am afraid that I am not a jade, so I do not dare to do hard work, but I half believe that I am a jade, so I refuse to be mediocre.
 
